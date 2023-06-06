@@ -1,0 +1,82 @@
+h4{
+  color: #FAFD61;
+}
+
+body{
+  margin: 0;
+}
+
+h3{
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 1em;
+}
+
+.chat-button{
+  background-color: #1c4bc4;
+  border-radius: 5px;
+  max-width: fit-content;
+}
+
+.heading-content{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0;
+}
+.page-options{
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1em;
+  margin-right: 3em;
+  padding-left: 1em;
+}
+
+.main-content{
+  background-color: #061130;
+  max-height: 80vh;
+  margin-bottom: 2em;
+}
+
+.main-paragraph{
+  padding: 4em 10em;
+}
+
+.about-section{
+  padding-right: 5em;
+  align-content: center;
+}
+
+.text-color{
+  color: white;
+}
+
+.display-flex{
+  display: flex;
+}
+
+.cool-logo{
+  margin-top: 1em;
+  margin-left: 2em;
+}
+
+.world-map{
+  height: 20em;
+  
+}
+
+.link-box{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 87px;
+  padding-bottom: 18px;
+  color: #1c4bc4;
+  text-decoration-line: underline;
+}
+
+.bottom-section{
+  background-color: #f4f6f8;
+  display: flex;
+  justify-content: center;
+  
+}
